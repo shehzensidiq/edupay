@@ -1,0 +1,44 @@
+nav {
+  background-color: #069; }
+
+.login {
+  height: 700px; }
+  .login .card {
+    margin-top: 15%; }
+    .login .card .card-header {
+      background-color: #069;
+      height: 50px; }
+    .login .card .button:hover {
+      color: white;
+      background-color: #069;
+      border: 1px solid #069; }
+
+#dashboard_transport #navbar ul a {
+  color: white;
+  font-size: 10px; }
+
+#dashboard_transport #navbar ul a:hover {
+  opacity: 0.8; }
+
+#dashboard_transport #navbar ul button {
+  font-size: 10px; }
+
+#dashboard_transport #navbar ul button:hover {
+  background-color: #069;
+  color: white; }
+
+#dashboard_transport #add-vehicle-form {
+  height: 700px; }
+  #dashboard_transport #add-vehicle-form .card {
+    width: 700px;
+    margin-top: 5px; }
+    #dashboard_transport #add-vehicle-form .card .card-header {
+      background-color: #069; }
+
+#dashboard_transport #cards .card i {
+  font-size: 80px;
+  color: grey; }
+
+#dashboard_transport #logout_btn:hover {
+  cursor: pointer;
+  color: red; }
